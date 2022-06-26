@@ -793,3 +793,10 @@ img {
         max-width: 400px;
     }
 }
+
+@media screen and (max-width: 365px) {
+    .btn{
+        margin-bottom: 10px;
+        width: 150px;
+    }
+}
